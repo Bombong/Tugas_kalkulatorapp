@@ -18,4 +18,8 @@
         return (double) a / b;
     }
 
+    static int Perkalian(int a, int b)
+    {
+        return a * b;
+    }
 }
