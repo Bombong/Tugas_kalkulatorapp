@@ -12,4 +12,10 @@
     {
         return a - b;
     }
+
+    static double Pembagian(int a, int b)
+    {
+        return (double) a / b;
+    }
+
 }
